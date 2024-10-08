@@ -26,5 +26,5 @@ This project was developed with the intention of learning:
 6. Best practices for SwiftUI development
 
 
-https://github.com/user-attachments/assets/9ab892c9-32d6-4aa6-bb11-a90af8663f59
 
+<img width="250"  src="https://github.com/user-attachments/assets/9ab892c9-32d6-4aa6-bb11-a90af8663f59">
