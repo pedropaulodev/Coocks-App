@@ -24,3 +24,7 @@ This project was developed with the intention of learning:
 4. How to decode JSON responses into Swift structs
 5. How to update the UI asynchronously with API data
 6. Best practices for SwiftUI development
+
+
+https://github.com/user-attachments/assets/9ab892c9-32d6-4aa6-bb11-a90af8663f59
+
