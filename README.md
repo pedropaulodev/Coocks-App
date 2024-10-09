@@ -25,6 +25,7 @@ This project was developed with the intention of learning:
 5. How to update the UI asynchronously with API data
 6. Best practices for SwiftUI development
 
+https://github.com/user-attachments/assets/66796421-f442-480f-a01a-f04ce4ae144e
 
 
-<img width="250"  src="https://github.com/user-attachments/assets/9ab892c9-32d6-4aa6-bb11-a90af8663f59">
+
